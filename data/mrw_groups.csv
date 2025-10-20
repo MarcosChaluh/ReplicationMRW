@@ -1,0 +1,122 @@
+country,N,I,O
+Afghanistan,0,0,0
+Algeria,1,1,0
+Angola,1,0,0
+Argentina,1,1,0
+Australia,1,1,1
+Austria,1,1,1
+Bahrain,0,0,0
+Bangladesh,1,1,0
+Barbados,0,0,0
+Belgium,1,1,1
+Benin,1,0,0
+Bolivia,1,1,0
+Botswana,1,1,0
+Brazil,1,1,0
+Burkina Faso,1,0,0
+Burma,1,1,0
+Burundi,1,0,0
+Cameroon,1,1,0
+Canada,1,1,1
+Central Afr. Rep.,1,0,0
+Chad,1,0,0
+Chile,1,1,0
+Colombia,1,1,0
+"Congo,",1,0,0
+Costa Rica,1,1,0
+Cyprus,0,0,0
+Denmark,1,1,1
+Dominican Rep.,1,1,0
+Ecuador,1,1,0
+Egypt,1,0,0
+El Salvador,1,1,0
+Ethiopia,1,1,0
+Fiji,0,0,0
+Finland,1,1,1
+France,1,1,1
+Gabon,0,0,0
+"Gambia, The",0,0,0
+"Germany, W.",1,1,1
+Ghana,1,0,0
+Greece,1,1,1
+Guatemala,1,1,0
+Guinea,0,0,0
+Guyana,0,0,0
+Haiti,1,1,0
+Honduras,1,1,0
+Hong Kong,1,1,0
+Iceland,0,0,0
+India,1,1,0
+Indonesia,1,1,0
+Iran,0,0,0
+Iraq,0,0,0
+Ireland,1,1,1
+Israel,1,1,0
+Italy,1,1,1
+Ivory Coast,1,1,0
+Jamaica,1,1,0
+Japan,1,1,1
+Jordan,1,1,0
+Kenya,1,1,0
+"Korea, South",1,1,0
+Kuwait,0,0,0
+Lesotho,0,0,0
+Liberia,1,0,0
+Luxembourg,0,0,0
+Madagascar,1,1,0
+Malawi,1,1,0
+Malaysia,1,1,0
+Mali,1,1,0
+Malta,0,0,0
+Mauritania,1,0,0
+Mauritius,1,0,0
+Mexico,1,1,0
+Morocco,1,1,0
+Mozambique,1,0,0
+Nepal,1,0,0
+Netherlands,1,1,1
+New Zealand,1,1,1
+Nicaragua,1,1,0
+Niger,1,0,0
+Nigeria,1,1,0
+Norway,1,1,1
+Oman,0,0,0
+Pakistan,1,1,0
+Panama,1,1,0
+Papua New Guinea,1,0,0
+Paraguay,1,1,0
+Peru,1,1,0
+Philippines,1,1,0
+Portugal,1,1,1
+Rwanda,1,0,0
+S. Africa,1,1,0
+Saudi Arabia,0,0,0
+Senegal,1,1,0
+Sierra Leone,1,0,0
+Singapore,1,1,0
+Somalia,1,0,0
+Spain,1,1,1
+Sri Lanka,1,1,0
+Sudan,1,0,0
+Surinam,0,0,0
+Swaziland,0,0,0
+Sweden,1,1,1
+Switzerland,1,1,1
+Syria,1,1,0
+Taiwan,0,0,0
+Tanzania,1,1,0
+Thailand,1,1,0
+Togo,1,0,0
+Trinidad and Tobago,1,1,0
+Tunisia,1,1,0
+Turkey,1,1,1
+U.A.E.,0,0,0
+Uganda,1,0,0
+United Kingdom,1,1,1
+United States,1,1,1
+Uruguay,1,1,0
+Venezuela,1,1,0
+Yemen,0,0,0
+Zaire,1,0,0
+Zambia,1,1,0
+Zimbabwe,1,1,0
